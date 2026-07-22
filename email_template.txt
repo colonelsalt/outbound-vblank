@@ -1,16 +1,15 @@
-Subject line: **An idea for showing off <VENUE>**
+Subject line: **Could we scan <VENUE> in 3D?** // OR, if they already have a 360 viewer:
+**[An idea for <VENUE>’s virtual viewing]**
 
-Hi!
+Hi! I'm the founder of VBlank. <SHORT PERSONALISED COMPLIMENT on the beauty/style of the venue or the marketing on the website>
 
-<GENUINE PERSONALISED COMPLIMENT — ideally mention a specific room, architectural feature, or type of event shown on their website.>
-
-We’d love to help prospective customers explore <VENUE> before they enquire by creating an interactive, photorealistic 3D tour of one of your spaces.
+We’d love to help prospective clients explore <VENUE> before they enquire by creating an interactive, photorealistic 3D tour of one of your spaces, [which goes improves on what I see you're already showcasing with <existing 360 tour>].
 
 We’ll come in, scan the space with our specialised equipment and build the tour for you completely free.
 
-This is the next generation of immersive viewing - instead of using a series of static 360 photos, our technology lets you walk through the space naturally in full photorealistic 3D, like a video game. You can have a look at some live examples on our website at https://vblank.co.uk/.
+This is the next generation of immersive viewing - instead of jumping between a series of static 360 photos, our technology lets you walk through the space seamlessly in full photorealistic 3D, like a video game. You can have a look at some live examples on our website at https://vblank.co.uk/.
 
-There’s no obligation or payment required. If you like the finished tour, we’ll also host it free for 30 days so you can try it on your website.
+There’s no obligation or payment required. If you like the finished tour, we’ll also host it free for 30 days so you can try it on your website [, side by side with <existing 360 tour> so you can assess for yourself which you prefer].
 
 Would you be open to having one of your spaces scanned? If so, just reply 'yes' and I'll figure out some possible dates.
 
@@ -23,6 +22,6 @@ Best regards,
 
 // If the venue is in Bethnal Green, Whitechapel, Stepney Green, Shoreditch, or nearby areas, add the following to the intro:
 
-'I live and work round the corner from <VENUE>...'
+[founder of VBlank]', and live and work round the corner from <VENUE>...'
 
-// If the venue website already has an old-school 360 viewing like Matterport/Giraffe360/Cloudpano, acknowledge this somehow, but emphasise that ours is better because it lets you move continuously through the space.
+// If the venue website already has an old-school 360 viewing like Matterport/Giraffe360/Cloudpano, acknowledge this in the sections marked with brackets, with the brand name of the solution they're using currently
