@@ -1,0 +1,24 @@
+Contact email: matthew@space.org.uk
+Contact name: Matthew Jameson - Artistic Director & Co-CEO
+Website: https://space.org.uk/hire/
+
+Research note: The existing tour is easy to miss. The Hire page's 360 Tour links open the general About page, where the viewer is behind the 360 Tour tab. The iframe uses CloudPano at https://app.cloudpano.com/tours/J9TCozB7Bs, while Matt Badenoch Photography is credited as the photographer who created the tour. The email names the actual platform.
+
+Subject line: An idea for The Space's virtual viewing
+
+Hi! I'm the founder of VBlank. I love the look of The Space - the old church gives the theatre real character, and the work you do for new artists feels very true to the building.
+
+We’d love to help prospective clients explore the venue before they enquire by creating an interactive, photorealistic 3D tour of one of your spaces, which improves on what I see you're already showcasing with CloudPano.
+
+We’ll come in, scan the space for an hour with our specialised equipment and build the tour for you completely free.
+
+This is the next generation of immersive viewing - instead of jumping between a series of static 360 photos, our technology lets you walk through the space seamlessly in full photorealistic 3D, like a video game. You can have a look at some live examples on our website at https://vblank.co.uk/.
+
+There’s no obligation or payment required. If you like the finished tour, we’ll also host it free for 30 days so you can try it on your website, side by side with CloudPano so you can assess for yourself which you prefer.
+
+Would you be open to having one of your spaces scanned? If so, just reply 'yes' and I'll figure out some possible dates.
+
+(Or if you prefer, give me a call/Whatsapp on 07831 086 427).
+
+Best regards,
+<signature>

@@ -1,0 +1,23 @@
+Contact email: bookings@stanleyarts.org
+Website: https://stanleyarts.org/venue-hire/
+
+Research note: The unbranded viewer is an EyeSpy360 tour. Its iframe is hosted on Stanley-Arts.vr-360-tour.com, its metadata identifies @eyespy360, and its viewer script is copyrighted by EyeSpy360 Limited. The script combines EyeSpy360's own viewer code with Pannellum, Three.js and Google VR View components. The CC BY 4.0 notice sits outside the iframe and appears to license the tour content rather than identify its producer.
+
+Subject line: An idea for Stanley Arts' virtual viewing
+
+Hi! I'm the founder of VBlank. Stanley Arts looks really impressive - the Art Nouveau hall and balcony are gorgeous, and I like how the building is still run for its local creative community.
+
+We’d love to help prospective clients explore the complex before they enquire by creating an interactive, photorealistic 3D tour of one of your spaces, which improves on what I see you're already showcasing with EyeSpy360.
+
+We’ll come in, scan the space for an hour with our specialised equipment and build the tour for you completely free.
+
+This is the next generation of immersive viewing - instead of jumping between a series of static 360 photos, our technology lets you walk through the space seamlessly in full photorealistic 3D, like a video game. You can have a look at some live examples on our website at https://vblank.co.uk/.
+
+There’s no obligation or payment required. If you like the finished tour, we’ll also host it free for 30 days so you can try it on your website, side by side with EyeSpy360 so you can assess for yourself which you prefer.
+
+Would you be open to having one of your spaces scanned? If so, just reply 'yes' and I'll figure out some possible dates.
+
+(Or if you prefer, give me a call/Whatsapp on 07831 086 427).
+
+Best regards,
+<signature>
