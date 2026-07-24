@@ -1,60 +1,60 @@
-|Shoreditch Town Hall|Shoreditch|Independent charity / historic town hall and event venue|[shoreditchtownhall.com](https://shoreditchtownhall.com/)|
-|Oxford House|Bethnal Green|Community arts centre / Victorian chapel and event rooms|[oxfordhouse.org.uk](https://www.oxfordhouse.org.uk/)|
-|St Margaret's House|Bethnal Green|Independent arts and community venue|[stmargaretshouse.org.uk](https://www.stmargaretshouse.org.uk/event-space)|
-|Rich Mix|Shoreditch|Charity arts centre / cinema and event spaces|[richmix.org.uk](https://richmix.org.uk/hire-a-space/)|
-|Toynbee Hall|Whitechapel|Historic charity venue / hall and meeting rooms|[toynbeehall.org.uk](https://www.toynbeehall.org.uk/)|
-|Conway Hall|Holborn|Independent ethical society / historic event venue|[conwayhall.org.uk](https://www.conwayhall.org.uk/venue-hire/)|
-|Grand Junction|Paddington|Community arts venue / restored church|[grandjunction.org.uk](https://grandjunction.org.uk/venue-room-hire/events/)|
-|The Old Church|Stoke Newington|Historic church / not-for-profit arts and wedding venue|[theoldchurch.org.uk](https://www.theoldchurch.org.uk/weddings-and-parties)|
-|Village Underground|Shoreditch|Independent warehouse music and event venue|[villageunderground.co.uk](https://villageunderground.co.uk/hire/)|
-|EartH|Dalston|Independent multi-arts and event venue|[earthackney.co.uk](https://earthackney.co.uk/)|
-|Copeland Park & Bussey Building|Peckham|Independent creative quarter / warehouse venues|[copelandpark.com](https://www.copelandpark.com/venues/allvenues/)|
-|Stanley Arts|South Norwood|Charity-run Art Nouveau arts and wedding venue|[stanleyarts.org](https://stanleyarts.org/venue-hire/)|
-|The Albany|Deptford|Charity arts centre / theatre and event spaces|[thealbany.org.uk](https://www.thealbany.org.uk/spaces)|
-|The Space|Isle of Dogs|Charity theatre in a converted church / event venue|[space.org.uk](https://space.org.uk/hire/)|
-|Omnibus Theatre|Clapham|Charity theatre in a Victorian library / venue hire|[omnibus-clapham.org](https://www.omnibus-clapham.org/)|
-|Streatham Space Project|Streatham Hill|Non-profit community arts and event venue|[streathamspaceproject.co.uk](https://www.streathamspaceproject.co.uk/)|
-|Cecil Sharp House|Camden|Folk arts charity / Grade II event and wedding venue|[efdss.org](https://www.efdss.org/cecil-sharp-house/venue-hire)|
-|St Bride Foundation|Fleet Street|Historic charity / theatre, halls and wedding venue|[sbf.org.uk](https://sbf.org.uk/venue-hire/)|
-|The Horse Hospital|Bloomsbury|Independent arts venue in a former stable|[thehorsehospital.com](https://www.thehorsehospital.com/venue-information)|
-|Fitzrovia Chapel|Fitzrovia|Independent heritage charity / chapel and wedding venue|[fitzroviachapel.org](https://www.fitzroviachapel.org/venue-hire/)|
-|The Castle Cinema|Hackney|Independent crowdfunded community cinema|[thecastlecinema.com](https://thecastlecinema.com/private-hire/)|
-|Rio Cinema|Dalston|Independent charity-run Art Deco cinema|[riocinema.org.uk](https://riocinema.org.uk/)|
-|The Lexi Cinema|Kensal Rise|Independent social-enterprise cinema / private hire|[thelexicinema.co.uk](https://thelexicinema.co.uk/TheLexiCinema.dll/Page?m=m&p=3&sp=0)|
-|Phoenix Cinema|East Finchley|Independent charitable historic cinema|[phoenixcinema.co.uk](https://www.phoenixcinema.co.uk/)|
-|ArtHouse Crouch End|Crouch End|Locally created independent cinema and performance venue|[arthousecrouchend.co.uk](https://www.arthousecrouchend.co.uk/private-hire/)|
-|The Garden Cinema|Covent Garden|Privately owned independent Art Deco-style cinema|[thegardencinema.co.uk](https://www.thegardencinema.co.uk/)|
-|Prince Charles Cinema|Leicester Square|Independent repertory cinema / private screenings|[princecharlescinema.com](https://princecharlescinema.com/cinema-hire/)|
-|Sands Films|Rotherhithe|Independent film studio / cinema and music room|[sandsfilms.co.uk](https://www.sandsfilms.co.uk/)|
-|The Cinema Museum|Kennington|Volunteer-led cinema museum / event and filming venue|[cinemamuseum.org.uk](https://cinemamuseum.org.uk/contact/)|
-|Strong + Bendy|Hackney Wick|Independent fitness studio and outdoor gym / private hire|[strongandbendy.co.uk](https://www.strongandbendy.co.uk/blog/rental)|
-|Kagyu Samye Dzong London|Bermondsey|Buddhist charity / workshop and wellness space|[london.samye.org](https://www.london.samye.org/roomhire)|
-|The Kairos Centre|Roehampton|Catholic retreat and conference centre|[thekairoscentre.co.uk](https://www.thekairoscentre.co.uk/)|
-|St Bartholomew the Great|Smithfield|Historic parish church / concerts and event hire|[greatstbarts.com](https://www.greatstbarts.com/)|
-|St John's Waterloo|Waterloo|Historic church / arts, charity and community venue|[stjohnswaterloo.org](https://stjohnswaterloo.org/)|
-|St Martin-in-the-Fields|Trafalgar Square|Historic church / crypt and event venue|[stmartin-in-the-fields.org](https://www.stmartin-in-the-fields.org/venue-hire/)|
-|St Pancras Church|Euston|Grade I church / crypt, hall and garden hire|[stpancraschurch.org](https://www.stpancraschurch.org/hire-our-spaces)|
-|Union Chapel|Islington|Independent charity / church, music and event venue|[unionchapel.org.uk](https://unionchapel.org.uk/venue/hire)|
-|Rosslyn Hill Chapel|Hampstead|Independent self-governing chapel / weddings and private hire|[rosslynhillchapel.org.uk](https://www.rosslynhillchapel.org.uk/chapel-hire)|
-|St Mary's Walthamstow|Walthamstow|Restored heritage church / community and event venue|[stmaryswalthamstow.org](https://www.stmaryswalthamstow.org/hire/)|
-|St Luke's & Christ Church Chelsea|Chelsea|Parish churches / community halls for hire|[chelseaparish.org](https://chelseaparish.org/)|
-|Shoreditch Tab Centre|Shoreditch|Charity-run historic hall and community venue|[tabcentre.com](https://www.tabcentre.com/)|
-|Burgh House|Hampstead|Independent charity / historic house and wedding venue|[burghhouse.org.uk](https://www.burghhouse.org.uk/)|
-|Strawberry Hill House & Garden|Twickenham|Charitable historic house / weddings and private events|[strawberryhillhouse.org.uk](https://www.strawberryhillhouse.org.uk/venue-hire/)|
-|Syon House|Brentford|Privately run historic house / weddings and events|[syonpark.co.uk](https://syonpark.co.uk/)|
-|Pembroke Lodge|Richmond Park|Family-run Georgian mansion / wedding and event venue|[pembroke-lodge.co.uk](https://www.pembroke-lodge.co.uk/)|
-|Chiswick House & Gardens|Chiswick|Heritage charity / house, gardens and event venue|[chiswickhouseandgardens.org.uk](https://chiswickhouseandgardens.org.uk/venue-hire/corporate/)|
-|Gunnersbury Park & Museum|Acton|Community-interest heritage venue / weddings and events|[visitgunnersbury.org](https://www.visitgunnersbury.org/venue-hire)|
-|Beckenham Place Mansion|Beckenham|Independent Georgian mansion / weddings and private events|[beckenhamplace.org](https://www.beckenhamplace.org/hire/)|
-|Severndroog Castle|Shooters Hill|Community-restored Gothic castle / weddings and events|[severndroogcastle.org.uk](https://severndroogcastle.org.uk/)|
-|Mycenae House|Blackheath|Not-for-profit community house / weddings and room hire|[mycenaehouse.co.uk](https://mycenaehouse.co.uk/room-hire/)|
-|Dulwich Picture Gallery|Dulwich|Independent charity / gallery, gardens and event venue|[dulwichpicturegallery.org.uk](https://www.dulwichpicturegallery.org.uk/venue-hire/)|
-|Garden Museum|Lambeth|Independent museum in a former church / event venue|[gardenmuseum.org.uk](https://www.gardenmuseum.org.uk/hire/)|
-|Brunel Museum|Rotherhithe|Independent heritage museum / tunnel-shaft event venue|[thebrunelmuseum.com](https://thebrunelmuseum.com/)|
-|London Canal Museum|King's Cross|Independent museum / waterside wedding and event venue|[canalmuseum.org.uk](https://www.canalmuseum.org.uk/venue/index.html)|
-|London Museum of Water & Steam|Brentford|Independent museum / Victorian engineering event venue|[waterandsteam.org.uk](https://waterandsteam.org.uk/venue-hire)|
-|Foundling Museum|Bloomsbury|Independent charity museum / weddings and events|[foundlingmuseum.org.uk](https://foundlingmuseum.org.uk/venue-hire/)|
-|Charles Dickens Museum|Bloomsbury|Independent charity museum / private events and meetings|[dickensmuseum.com](https://dickensmuseum.com/pages/museum-hire)|
-|Pitzhanger Manor & Gallery|Ealing|Independent charitable trust / manor and event venue|[pitzhanger.org.uk](https://www.pitzhanger.org.uk/hire/)|
-|Walthamstow Wetlands|Walthamstow|Wildlife charity / Engine House wedding and event venue|[wildlondon.org.uk](https://www.wildlondon.org.uk/private-hire/walthamstow-wetlands)|
-|Woodberry Wetlands|Manor House|Wildlife charity / Coal House wedding and event venue|[wildlondon.org.uk](https://www.wildlondon.org.uk/private-hire-woodberry-wetlands)|
+|Jacksons Lane|Highgate|Arts charity / contemporary circus venue in a converted church|[jacksonslane.org.uk](https://www.jacksonslane.org.uk/)|
+|artsdepot|North Finchley|Independent arts charity / theatres, studios and event spaces|[artsdepot.co.uk](https://www.artsdepot.co.uk/contact-us/)|
+|Theatre Peckham|Peckham|Community theatre charity / auditorium, studio and event rooms|[theatrepeckham.co.uk](https://www.theatrepeckham.co.uk/hire/)|
+|The Cockpit|Marylebone|Fringe theatre / in-the-round auditorium and rehearsal studios|[thecockpit.org.uk](https://www.thecockpit.org.uk/use_our_space)|
+|Mountview|Peckham|Performing-arts charity / theatres, studios and rooftop event space|[mountview.org.uk](https://www.mountview.org.uk/hire-a-space/)|
+|Pleasance Theatre London|Islington|Independent theatre trust / performance and event spaces|[pleasance.co.uk](https://www.pleasance.co.uk/london-hire)|
+|Theatro Technis|Camden|Independent community theatre / auditorium, studio and courtyard|[theatrotechnis.com](https://www.theatrotechnis.com/)|
+|Wac Arts at the Old Town Hall|Belsize Park|Arts charity / listed town hall with halls and studios|[wacarts.co.uk](https://www.wacarts.co.uk/home/room-hire)|
+|The Tabernacle|Notting Hill|Historic arts and community venue / theatre and function rooms|[thetabernaclew11.com](https://www.thetabernaclew11.com/hire)|
+|Poplar Union|Poplar|Community arts charity / performance studio and meeting space|[poplarunion.com](https://poplarunion.com/hire/)|
+|Chats Palace|Homerton|Community arts charity / former library with theatre, bar and studios|[chatspalace.com](https://chatspalace.com/hire-us/)|
+|London Welsh Centre|King's Cross|Cultural charity / hall, bar and meeting rooms|[londonwelsh.org](https://londonwelsh.org/venue-hire/)|
+|Irish Cultural Centre Hammersmith|Hammersmith|Cultural charity / performance hall, bar and meeting rooms|[irishculturalcentre.co.uk](https://irishculturalcentre.co.uk/room-hire/)|
+|The Amadeus|Maida Vale|Independent former chapel / wedding and event venue|[theamadeus.co.uk](https://theamadeus.co.uk/the-spaces/)|
+|Crypt on the Green|Clerkenwell|Historic church crypt / wedding, party and event spaces|[cryptonthegreen.co.uk](https://cryptonthegreen.co.uk/venue-spaces)|
+|The House Mill|Bromley-by-Bow|Heritage charity / Grade I listed tidal mill and event venue|[housemill.org.uk](https://housemill.org.uk/hire/)|
+|Cockpit Studios|Bloomsbury and Deptford|Craft charity / studios, courtyards and creative event spaces|[cockpitstudios.org](https://cockpitstudios.org/venue-hire/)|
+|The Courtyard Theatre|Hoxton|Independent theatre in a former library / performance and event spaces|[thecourtyard.org.uk](https://thecourtyard.org.uk/hire/)|
+|ActOne Cinema|Acton|Community-run cinema / screenings, parties and private hire|[actonecinema.co.uk](https://www.actonecinema.co.uk/hire-us/)|
+|Peckhamplex|Peckham|Independent neighbourhood multiplex cinema|[peckhamplex.london](https://www.peckhamplex.london/cinema/information)|
+|David Lean Cinema|Croydon|Volunteer-led community cinema / private screenings and hire|[davidleancinema.org.uk](https://www.davidleancinema.org.uk/other-organisations/)|
+|Close-Up Film Centre|Shoreditch|Independent cinema, film library and bar / venue hire|[closeupfilmcentre.com](https://www.closeupfilmcentre.com/venue-hire/)|
+|Whirled Cinema|Loughborough Junction|Independent 60-seat cinema / screenings, parties and event hire|[coldharbourblue.com](https://www.coldharbourblue.com/hire/)|
+|Kiln Theatre & Cinema|Kilburn|Theatre charity / auditorium, cinema and event spaces|[kilntheatre.com](https://kilntheatre.com/our-story/hire/)|
+|Olympic Studios|Barnes|Independently owned boutique cinema in a former recording studio|[olympicstudios.com](https://www.olympicstudios.com/pages/private-hire-barnes)|
+|Regent Street Cinema|West End|Historic art-deco cinema / private screenings and exclusive hire|[regentstreetcinema.com](https://www.regentstreetcinema.com/hire/)|
+|The Charterhouse|Clerkenwell|Historic almshouse charity / weddings, dinners and event hire|[thecharterhouse.org](https://thecharterhouse.org/venue-hire/)|
+|Benjamin Franklin House|Charing Cross|Heritage charity / Grade I listed Georgian house for private hire|[benjaminfranklinhouse.org](https://benjaminfranklinhouse.org/hire/)|
+|Museum of the Home|Hoxton|Museum charity in historic almshouses / gallery and garden hire|[museumofthehome.org.uk](https://museumofthehome.org.uk/about-us/venue-hire/)|
+|Museum of the Order of St John|Clerkenwell|Museum charity / historic rooms, church and courtyard garden|[museumstjohn.org.uk](https://museumstjohn.org.uk/venue-hire/overview/)|
+|The Postal Museum|Clerkenwell|Independent heritage museum / Mail Rail and event spaces|[postalmuseum.org](https://www.postalmuseum.org/venue-hire)|
+|The Cartoon Museum|Fitzrovia|Independent museum charity / gallery and event hire|[cartoonmuseum.org](https://www.cartoonmuseum.org/venue-hire)|
+|Museum of Brands|Notting Hill|Independent museum charity / galleries, garden and event spaces|[museumofbrands.com](https://museumofbrands.com/venue-hire/)|
+|Freud Museum London|Hampstead|Independent museum charity / historic house and garden hire|[freud.org.uk](https://www.freud.org.uk/venue-hire/)|
+|Estorick Collection|Canonbury|Independent art foundation / Georgian house and garden venue|[estorickcollection.com](https://www.estorickcollection.com/venue-hire)|
+|Dr Johnson's House|Fleet Street|Historic-house charity / intimate private events and receptions|[drjohnsonshouse.org](https://www.drjohnsonshouse.org/venue-hire)|
+|Handel Hendrix House|Mayfair|Independent heritage charity / historic rooms for dinners and receptions|[handelhendrix.org](https://handelhendrix.org/private-hire)|
+|Old Operating Theatre Museum & Herb Garret|London Bridge|Museum charity / atmospheric historic venue for events and filming|[oldoperatingtheatre.com](https://oldoperatingtheatre.com/venue-hire/)|
+|Stephens House & Gardens|Finchley|Charitable trust / historic house, gardens and wedding venue|[stephenshouseandgardens.com](https://www.stephenshouseandgardens.com/)|
+|Capel Manor Gardens|Enfield|Education charity / historic gardens and wedding venue|[capelmanorgardens.co.uk](https://www.capelmanorgardens.co.uk/venue-hire/weddings/)|
+|De Morgan House|Russell Square|Charity-owned historic townhouse / meeting and event venue|[demorganhouse.org.uk](https://www.demorganhouse.org.uk/)|
+|Swedenborg Hall|Bloomsbury|Charitable society / neo-classical lecture and performance hall|[swedenborg.org.uk](https://www.swedenborg.org.uk/wp-content/uploads/2020/01/SWEDENBORG-HALL-HIRE-RATES-PDF-2020.pdf)|
+|Leighton House|Holland Park|Historic artist's house / receptions, concerts and private events|[rbkc.gov.uk](https://www.rbkc.gov.uk/museums/venue-hire)|
+|Holy Sepulchre London|Holborn|Historic church / concerts, weddings and event hire|[hsl.church](https://hsl.church/hire-overview)|
+|St Stephen Walbrook|City of London|Wren church / exclusive receptions, dinners and events|[ststephenwalbrook.net](https://www.ststephenwalbrook.net/exclusive-venue-hire-2)|
+|St Mary-at-Hill|City of London|Historic church / flexible open-plan event venue|[stmaryathill.org](https://stmaryathill.org/hire/)|
+|St Botolph without Bishopsgate|Bishopsgate|Historic parish church / garden hall and meeting-room hire|[botolph.org.uk](https://botolph.org.uk/hall-hire/)|
+|St George's Bloomsbury|Bloomsbury|Hawksmoor church / concerts, rehearsals and hall hire|[stgeorgesbloomsbury.org.uk](https://www.stgeorgesbloomsbury.org.uk/hire)|
+|St James's Piccadilly|Piccadilly|Wren church / private, corporate and cultural events|[sjp.org.uk](https://www.sjp.org.uk/venue-hire/)|
+|St George the Martyr Borough|Borough|Historic church and crypt / events, performances and meetings|[borough.church](https://www.borough.church/hire-our-spaces)|
+|St Mary Islington|Islington|Parish church / church, crypt and meeting-room hire|[stmaryislington.org](https://www.stmaryislington.org/ourspaces)|
+|St John on Bethnal Green|Bethnal Green|Grade I listed Soane church / community and event hire|[stjohnonbethnalgreen.church](https://www.stjohnonbethnalgreen.church/about)|
+|St Mary Acton|Acton|Historic parish church / church and hall hire|[stmaryacton.org.uk](https://stmaryacton.org.uk/venue-hire/)|
+|Yogahome|Stoke Newington|Independent yoga charity / studios, therapy and meeting rooms|[yogahome.com](https://yogahome.com/room-hire/)|
+|TripSpace|Haggerston|Independent dance and yoga studio in a railway arch|[tripspace.co.uk](https://tripspace.co.uk/contact/)|
+|East of Eden|Walthamstow|Independent movement centre / yoga, Pilates, barre and cycle studios|[eastofeden.uk](https://www.eastofeden.uk/)|
+|The Shala|West Norwood|Independent yoga centre in a converted Victorian warehouse|[theshalalondon.com](https://www.theshalalondon.com/our-space/)|
+|The Lodge Space|Surrey Quays|Family-run wellness centre in a former park keeper's lodge|[thelodge.space](https://www.thelodge.space/)|
+|The Study Society at Colet House|Barons Court|Spiritual charity / historic retreat, workshop and event venue|[studysociety.org](https://www.studysociety.org/room-hire/)|
+|The Space London|Clapham|Independent yoga and sound-healing studio / workshops and space hire|[thespacelondon.co.uk](https://www.thespacelondon.co.uk/hire)|
